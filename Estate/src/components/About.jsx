@@ -20,18 +20,20 @@ function About() {
               <p>Years of Excellence</p>
             </div>
             <div>
-              <p className="text-4xl font-medium text-gray-800">10+</p>
-              <p>Years of Excellence</p>
+              <p className="text-4xl font-medium text-gray-800">12+</p>
+              <p>Projects Completed</p>
             </div>
             <div>
-              <p className="text-4xl font-medium text-gray-800">10+</p>
-              <p>Years of Excellence</p>
+              <p className="text-4xl font-medium text-gray-800">20+</p>
+              <p>Mn. Sq. Ft. Delivered</p>
             </div>
             <div>
-              <p className="text-4xl font-medium text-gray-800">10+</p>
-              <p>Years of Excellence</p>
+              <p className="text-4xl font-medium text-gray-800">25+</p>
+              <p>Ongoing Projects</p>
             </div>
           </div>
+          <p className="my-10 max-w-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas impedit explicabo debitis magnam laborum ipsa, suscipit quia necessitatibus aliquam odio, soluta fuga? Eum beatae quam voluptatem vel debitis. Voluptatem inventore molestias veniam?</p>
+          <button className="bg-blue-600 text-white px-8 py-2 rounded">Learn more</button>
         </div>
       </div>
     </div>

@@ -26,7 +26,7 @@ function Navbar() {
           <a href="#Header" className="cursor-pointer hover:text-gray-400">
             Projects
           </a>
-          <a href="#Header" className="cursor-pointer hover:text-gray-400">
+          <a href="#Testimonial" className="cursor-pointer hover:text-gray-400">
             Testimonials
           </a>
         </ul>
